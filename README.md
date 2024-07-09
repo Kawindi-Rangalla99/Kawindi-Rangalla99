@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kawindi-rangalla&label=Profile%20views&color=0e75b6&style=flat" alt="kawindi-rangalla" /> </p>
 
+---
+
 - 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **react**
