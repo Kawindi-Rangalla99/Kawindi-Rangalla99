@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kawindi Rangalla</h1>
 <h3 align="center">Undergraduate | Bsc(Hons) in Computing and Information System</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawindi-rangalla&label=Profile%20views&color=0e75b6&style=flat" alt="kawindi-rangalla" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kawindi-rangalla&label=Profile%20views&color=0e75b6&style=flat" alt="kawindi-rangalla" /> </p>
 
 - 🌱 I’m currently learning **react**
 
